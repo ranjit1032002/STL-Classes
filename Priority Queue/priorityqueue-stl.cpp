@@ -7,17 +7,11 @@ all elements in the queue and elements are in non increasing order
 (hence we can see that each element of the queue has a priority {fixed order}).
 
 Methods of priority queue are: 
-
 priority_queue::empty() in C++ STL– empty() function returns whether the queue is empty.
-
 priority_queue::size() in C++ STL– size() function returns the size of the queue.
-
 priority_queue::top() in C++ STL– Returns a reference to the top most element of the queue
-
 priority_queue::push() in C++ STL– push(g) function adds the element ‘g’ at the end of the queue.
-
 priority_queue::pop() in C++ STL– pop() function deletes the first element of the queue.
-
 priority_queue::swap() in C++ STL– This function is used to swap the contents of one priority queue with another priority queue 
 									of same type and size.
 priority_queue::emplace() in C++ STL – This function is used to insert a new element into the priority queue container, 
